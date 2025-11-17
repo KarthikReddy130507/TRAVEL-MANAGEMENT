@@ -1,0 +1,3 @@
+Submission:
+- Upload this ZIP to the assessment portal or GitHub repository as your 'frontend' submission.
+- After pushing to GitHub, ensure GitHub Pages is enabled in repo settings (branch: gh-pages) if needed.
